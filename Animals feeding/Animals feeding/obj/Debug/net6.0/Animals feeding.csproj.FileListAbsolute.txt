@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\Animals feeding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\Animals feeding.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\Animals feeding.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\Animals feeding.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\bin\Debug\net6.0\Animals feeding.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\bin\Debug\net6.0\Animals feeding.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\bin\Debug\net6.0\Animals feeding.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\bin\Debug\net6.0\Animals feeding.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\bin\Debug\net6.0\Animals feeding.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\Animals feeding.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\refint\Animals feeding.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\Animals feeding.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\Animals feeding.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals feeding\Animals feeding\obj\Debug\net6.0\ref\Animals feeding.dll
